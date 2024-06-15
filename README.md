@@ -1,1 +1,1 @@
-# deep-compare
+# DeepCompare - PHP object comparator
